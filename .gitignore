@@ -1,4 +1,5 @@
-audit-config.md
-reports/
-tracker.md
+# The user's own audit files, created at the root by setup
+/audit-config.md
+/tracker.md
+/reports/
 *.json
